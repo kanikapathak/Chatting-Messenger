@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894455341259",
+    "project_id": "chatting-messenger-f2413",
+    "storage_bucket": "chatting-messenger-f2413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894455341259:android:c44c1cf276ba2b3af0fb4e",
+        "android_client_info": {
+          "package_name": "com.example.chatingmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894455341259-qup7gjd8jl75najhju9a6852t1qpiqrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-3xVbKxDEAfSd9Q9ZaLBiiS2ceCBb4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894455341259-qup7gjd8jl75najhju9a6852t1qpiqrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
